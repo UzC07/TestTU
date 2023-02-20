@@ -1,0 +1,16 @@
+﻿{
+  "Id": "UNOzlxY630im1QlCS9hntw",
+  "Reference": "uSi0Nw4n0kSnNylkcfZUXw/UNOzlxY630im1QlCS9hntw",
+  "ParentRef": "uSi0Nw4n0kSnNylkcfZUXw/pH7s35eDC0ynQ35v6-UmRg",
+  "Name": "StaffNumber",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-20T07:48:01.5649384Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.1.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-20T07:48:34.9222807Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.1.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

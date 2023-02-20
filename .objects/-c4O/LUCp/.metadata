@@ -1,0 +1,12 @@
+﻿{
+  "Id": "LUCpOTexGUO1zlTNRjiD0A",
+  "Reference": "uSi0Nw4n0kSnNylkcfZUXw/LUCpOTexGUO1zlTNRjiD0A",
+  "ParentRef": "uSi0Nw4n0kSnNylkcfZUXw/-c4OpVkhBkWrPw-LsdddZQ",
+  "Name": "1.0.0",
+  "Type": "AppVersion",
+  "Created": "2023-02-20T07:47:06.1060956Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.1.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-20T07:47:06.1060956Z"
+}

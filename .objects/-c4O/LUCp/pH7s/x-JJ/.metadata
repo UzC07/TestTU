@@ -1,0 +1,13 @@
+﻿{
+  "Id": "x-JJ_bpsRkCduSgEzbDpYw",
+  "Reference": "uSi0Nw4n0kSnNylkcfZUXw/x-JJ_bpsRkCduSgEzbDpYw",
+  "ParentRef": "uSi0Nw4n0kSnNylkcfZUXw/pH7s35eDC0ynQ35v6-UmRg",
+  "Name": "BtnLogIn",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2023-02-20T07:50:05.0406488Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.1.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-02-20T07:50:05.0406488Z"
+}
